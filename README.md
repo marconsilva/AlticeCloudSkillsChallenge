@@ -11,7 +11,7 @@ Welcome to the Altice Cloud Skills Challenge! This learning path is designed to 
   - Detailed modules covering Azure fundamentals and AI concepts.
   - Recommended study materials and resources.
   - Leaderboard to check who is leading the learning journey.
-- Hand-on Labs
+- Hands-on Labs
   - Practical exercises to apply your knowledge.
   - Step-by-step guides for real-world scenarios.
 - Final Evaluation
@@ -27,7 +27,7 @@ Follow this link to find the challenge modules and start learning - [Cloud Skill
 
 Collect points for completing each module and rank up in the leaderboard. Put your best shoes on and run! See you in the finish line.
 
-## Hand-on Labs
+## Hands-on Labs
 Hands-on labs are an essential part of this learning path, allowing you to apply what you've learned in a practical setting. These labs will guide you through various scenarios, such as deploying virtual machines, setting up AI models, and using Azure Cognitive Services. By completing these labs, you'll gain valuable experience and confidence in using Azure and AI technologies.
 
 
